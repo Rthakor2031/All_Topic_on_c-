@@ -1,6 +1,8 @@
 # All_Topic_on_c-
 CPP
 
-Day-1 [Class & object]:- https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200828100221/LifeCycleObjectStackImage-660x406.jpg
+Day-1 [Class & object]:- ![image](https://github.com/user-attachments/assets/75af04b0-b635-4e13-a1a7-0e624ad828d1)
 
-Day-1 [Consist of C++]:- https://media.geeksforgeeks.org/wp-content/uploads/20221226180234/Structure-of-C-Program-(1)-660.png
+
+Day-1 [Consist of C++]:- ![image](https://github.com/user-attachments/assets/cedf048c-9790-4c28-a03f-4688c43c2be5)
+
